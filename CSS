@@ -1,0 +1,41 @@
+<style>
+body {
+font-family: Helvetica, Arial, sans-serif;
+ }
+
+ .button-burgundy {
+ background-color: #561B42;
+ color: #ffffff;
+ padding: 15px 30px;
+ border: none;
+ border-radius: 50px;
+ cursor: pointer;
+ text-decoration: none;
+ text-transform:uppercase;
+ font-weight:bold;
+ }
+ 
+ .button-burgundy-pill {
+ color: #561B42;
+ padding: 10px 15px;
+ border: solid;
+ border-width: 2px;
+ border-color: #561B42;
+ border-radius: 50px;
+ text-decoration: none;
+ text-transform:uppercase;
+ font-weight:bold;
+ font-size: 12px;
+ }
+                                                                
+  .inline-burgundy {
+  color: #561B42;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  text-decoration: underline;
+  text-transform: uppercase;
+  font-weight: bold;
+  }
+                                                              
+ </style>
